@@ -1,6 +1,8 @@
 # react-ts-chatbot
 
-基于 React + TypeScript + Material UI 实现的一个聊天机器人 demo.
+基于 React + TypeScript + Material UI 实现的一个聊天机器人 demo。
+
+> 使用 [openrouter.ai](https://openrouter.ai/) 的 `mistralai/mistral-7b-instruct:free` 模型。
 
 ## 如何运行
 
@@ -38,3 +40,7 @@ react-ts-chatbot
   - message-input: 消息输入框组件
 - features: 业务模块目录
   - chat: 对话模块
+
+## 效果
+
+![chatbot-screenshot](./screenshot/chat.png)
