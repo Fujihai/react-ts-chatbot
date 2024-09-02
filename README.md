@@ -18,21 +18,21 @@ yarn dev
 
 ### 项目核心文件结构
 
-```json
+```js
 react-ts-chatbot
 └─ src
-       ├─ App.tsx
-       ├─ assets
-       │    └─ react.svg
-       ├─ components
-       │    ├─ message
-       │    └─ message-input
-       ├─ features
-       │    └─ chat
-       ├─ main.tsx
-       ├─ types
-       │    └─ Message.ts
-       └─ vite-env.d.ts
+    ├─ App.tsx
+    ├─ assets
+    │    └─ react.svg
+    ├─ components
+    │    ├─ message
+    │    └─ message-input
+    ├─ features
+    │    └─ chat
+    ├─ main.tsx
+    ├─ types
+    │    └─ Message.ts
+    └─ vite-env.d.ts
 ```
 
 - components: 组件目录
